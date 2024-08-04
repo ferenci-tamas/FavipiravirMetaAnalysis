@@ -1,1 +1,4 @@
 # FavipiravirMetaAnalysis
+Files for 'Favipiravir does not improve viral clearance in mild to moderate COVID-19 – A systematic review and meta-analysis of randomized controlled trials'. Link: <https://www.cell.com/heliyon/fulltext/S2405-8440(24)05839-0>.
+
+Raw search results: [Pubmed](https://github.com/tamas-ferenci/FavipiravirMetaAnalysis/blob/main/Pubmed.ris) (n = 883), [Embase](https://github.com/tamas-ferenci/FavipiravirMetaAnalysis/blob/main/Embase.ris) (n = 3334), [Web of Science](https://github.com/tamas-ferenci/FavipiravirMetaAnalysis/blob/main/WoS.ris) (n = 984), [Cochrane](https://github.com/tamas-ferenci/FavipiravirMetaAnalysis/blob/main/Cochrane.ris) (n = 172). Results after deduplication are available [here](https://github.com/tamas-ferenci/FavipiravirMetaAnalysis/blob/main/articles3822.csv) (n = 3822).
